@@ -1,0 +1,9 @@
+Origin: Synical
+Label: Synical
+Suite: stable
+Version: 1.0
+Codename: Synical
+Architectures: iphoneos-arm
+Components: main
+Description: Synical - the repository for idiots.
+MD5Sum:
